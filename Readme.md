@@ -1,4 +1,4 @@
-			PLANTEAMIENTO DEL PROBLEMA
+PLANTEAMIENTO DEL PROBLEMA
 -------------------------------------------------------------------------------------
 
 Primeros pasos:
@@ -20,10 +20,8 @@ Lo que se espera:
 	o muertes (directamente) de los siniestros viales.
 
 
-
-
 --------------------------------------------------------------------------------------
-		PRIMERAS IMPRESIONES Y PLANTEAMIENTO DE HIPÓTESIS INCIALES
+PRIMERAS IMPRESIONES Y PLANTEAMIENTO DE HIPÓTESIS INCIALES
 --------------------------------------------------------------------------------------
 
 
@@ -65,11 +63,8 @@ practicamente la totalidad de lo que involucra la asertividad lo que claramente
 es muy bueno.---
 
 
-*************************************************************************************
-
-
-		Camino coherente a seguir para este tipo de caso
-				(Siniestros Viales)
+--------------------------------------------------------------------------------------
+Camino coherente a seguir para este tipo de caso (Siniestros Viales)
 --------------------------------------------------------------------------------------
 
 ChatGPT:
@@ -159,10 +154,9 @@ tráfico, lo que a su vez puede contribuir a la adopción de medidas más efecti
 para prevenirlos y mejorar la seguridad en las carreteras.
 
 
-*************************************************************************************
 
-
-			Camino que he decidido transitar
+--------------------------------------------------------------------------------------
+Camino que he decidido transitar
 --------------------------------------------------------------------------------------
 - Trabajar con zonas de mayor peligro
 La idea es trabajar con las características disponibles. Entonces lo primero que 
