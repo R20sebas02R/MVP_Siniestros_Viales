@@ -20,9 +20,9 @@ Lo que se espera:
 	o muertes (directamente) de los siniestros viales.
 
 
-*************************************************************************************
 
 
+--------------------------------------------------------------------------------------
 		PRIMERAS IMPRESIONES Y PLANTEAMIENTO DE HIPÓTESIS INCIALES
 --------------------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ es muy bueno.---
 
 		Camino coherente a seguir para este tipo de caso
 				(Siniestros Viales)
-
+--------------------------------------------------------------------------------------
 
 ChatGPT:
 
@@ -163,7 +163,7 @@ para prevenirlos y mejorar la seguridad en las carreteras.
 
 
 			Camino que he decidido transitar
-
+--------------------------------------------------------------------------------------
 - Trabajar con zonas de mayor peligro
 La idea es trabajar con las características disponibles. Entonces lo primero que 
 hice fue determinar las zonas donde más siniestros y más víctimas se han dado.
