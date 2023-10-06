@@ -1,4 +1,4 @@
-PLANTEAMIENTO DEL PROBLEMA
+Planteamiento del problema
 -------------------------------------------------------------------------------------
 
 Primeros pasos:
@@ -21,9 +21,8 @@ Lo que se espera:
 
 
 --------------------------------------------------------------------------------------
-PRIMERAS IMPRESIONES Y PLANTEAMIENTO DE HIPÓTESIS INCIALES
+Primeras impresiones y planteamiento de hipótesis iniciales
 --------------------------------------------------------------------------------------
-
 
 El dataset de homicidios está bien balanceado respecto a la cantidad de víctimas 
 y la cantidad de siniestros viales. Lo digo porque la tabla de homicidios_hechos
@@ -158,6 +157,7 @@ para prevenirlos y mejorar la seguridad en las carreteras.
 --------------------------------------------------------------------------------------
 Camino que he decidido transitar
 --------------------------------------------------------------------------------------
+
 - Trabajar con zonas de mayor peligro
 La idea es trabajar con las características disponibles. Entonces lo primero que 
 hice fue determinar las zonas donde más siniestros y más víctimas se han dado.
